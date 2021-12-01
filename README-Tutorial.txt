@@ -1,4 +1,4 @@
-			[+]==== Vivid - RyM Gang ====[+]
+			[+]==== Vivid - RyM Gang - OUTDATED ====[+]
 [+]===============================================================================[+]
 Setup: *THERE IS NO NEED TO EDIT/ADD ANYTHING IN ANY FILES BEFOREHAND
 	Load All Files Into /root/
